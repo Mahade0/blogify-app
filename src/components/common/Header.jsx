@@ -45,7 +45,7 @@ const Header = () => {
         {/* Logo */}
         <div>
           <Link to='/'>
-            <img className='w-32' src={Logo} alt='lws' />
+            LOGO
           </Link>
         </div>
         <div>
